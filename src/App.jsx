@@ -1,10 +1,15 @@
-import Header from "./components/header"
+import Header from "./components/header/header"
+import Main from "./components/main/main"
+import Footer from "./components/footer/footer"
+
+import "./general.css"
 
 function App(){
   return(
     <>
       <Header /> 
-      <h1>Hello</h1>
+      <Main /> 
+      <Footer />
     </>
     )
   }

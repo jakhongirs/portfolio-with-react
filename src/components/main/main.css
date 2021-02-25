@@ -1,0 +1,17 @@
+/* Main Content */
+
+/* Hero */
+.hero__container{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.hero__heading{
+  margin: 0;
+  margin-bottom: 75px;
+  font-family: 'Space Mono', monospace;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 52px;
+  color: #FFFFFF;
+}
